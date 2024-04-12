@@ -1,8 +1,8 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:project2/screen3.dart';
-import 'package:project2/screen4.dart';
+import 'package:project2/model/student_model.dart';
+import 'package:project2/screens/students_details.dart';
 import 'package:project2/service/studentservice.dart';
 
 class MyApp extends StatefulWidget {

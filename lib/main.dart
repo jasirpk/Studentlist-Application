@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:project2/screen1.dart';
+import 'package:project2/screens/students_list.dart';
 
 void main() {
   runApp(MyApp());

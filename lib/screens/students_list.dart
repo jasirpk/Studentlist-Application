@@ -1,11 +1,11 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:project2/editscreen5.dart';
-import 'package:project2/gridscreen.dart';
-import 'package:project2/screen2.dart';
-import 'package:project2/screen3.dart';
-import 'package:project2/screen4.dart';
+import 'package:project2/screens/update_screen.dart';
+import 'package:project2/screens/grid_view.dart';
+import 'package:project2/screens/add_student.dart';
+import 'package:project2/model/student_model.dart';
+import 'package:project2/screens/students_details.dart';
 import 'package:project2/service/studentservice.dart';
 
 class screen1 extends StatefulWidget {

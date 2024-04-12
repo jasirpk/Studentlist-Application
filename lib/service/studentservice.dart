@@ -1,5 +1,5 @@
 import 'package:project2/dbase/repository.dart';
-import 'package:project2/screen3.dart';
+import 'package:project2/model/student_model.dart';
 
 class StudentService {
   late Repository repository;

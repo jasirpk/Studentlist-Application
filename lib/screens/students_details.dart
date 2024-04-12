@@ -1,7 +1,7 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:project2/screen3.dart';
+import 'package:project2/model/student_model.dart';
 
 class screen4 extends StatefulWidget {
   final Student student;
